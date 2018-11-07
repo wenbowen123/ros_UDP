@@ -1,5 +1,6 @@
 # ros_UDP
 
-A small program used to realize UDP communication on ROS.
+This is a small program used to set up UDP communication between ROS and dSpace MABX in our paper
+"Wen, Bowen, Sukru Yaren Gelbal, Bilin Aksun Guvenc, and Levent Guvenc. "Localization and Perception for Control and Decision Making of a Low Speed Autonomous Shuttle in a Campus Pilot Deployment." SAE Technical Paper (2018): 01-1182"
 
-Can receive or send data on ROS. The original code is a project about coordination between SLAM and dSpace controller. You can change it for anything you want
+It can receive or send data on ROS. It's a project about coordination between SLAM and dSpace controller. You can change it for anything you want
